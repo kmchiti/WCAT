@@ -1,0 +1,14 @@
+torch==1.10.0
+torchvision==0.11.1
+jsonlines==3.0.0
+jsonnet==0.18.0
+packaging==23.2
+overrides==6.1.0
+fire==0.4.0
+nltk==3.6.7
+base58==2.1.1
+wandb==0.15.12
+dill==0.3.4
+scipy==1.7.0
+matplotlib==3.7.0
+pandas==1.5.3

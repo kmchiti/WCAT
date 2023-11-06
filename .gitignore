@@ -1,0 +1,11 @@
+data/
+save/
+wandb/
+ENV/
+Figure/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+.idea
+.DS_Store
+/src/*.ipynb
